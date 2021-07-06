@@ -5,3 +5,5 @@ https://audius.co/ethgang
 
 Listen to my latest rap song about Gitcoin:
 https://audius.co/onebotband/gitcoineg-447348
+
+<img width="1200" alt="Gitcoineg" src="https://user-images.githubusercontent.com/60158814/124589796-f741bb80-de8c-11eb-8d9e-431338deb9ba.png">
